@@ -1,30 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b637f20-825b-4e40-8d54-adb9225e23a5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/pratical course with python/conditionals/Functions - Advanced Features.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pratical course with python/conditionals/conditionals - advanced.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pratical course with python/conditionals/conditionals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pratical course with python/conditionals/functions - functions and user input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pratical course with python/conditionals/functions - the basics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pratical course with python/dealing with errors/exception handling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pratical course with python/dealing with errors/fixing difficult error.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pratical course with python/dealing with errors/runtime error.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pratical course with python/dealing with errors/syntax error.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pratical course with python/variable datatypes and functions/numbers and operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pratical course with python/variable datatypes and functions/numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pratical course with python/variable datatypes and functions/variable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python classes/first class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/datastructures/checkdates.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/datastructures/date.py" afterDir="false" />
+    <list default="true" id="1b637f20-825b-4e40-8d54-adb9225e23a5" name="Default" comment="python praticals in python">
+      <change afterPath="$PROJECT_DIR$/learning Angular/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pratical course with python/file handling/example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pratical course with python/file handling/files - appending to file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pratical course with python/file handling/files - opening and writing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pratical course with python/file handling/files - with statement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pratical course with python/loops/loops - multiple lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pratical course with python/loops/loops - userinput.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pratical course with python/loops/loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pratical course with python/loops/while loops.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python" beforeDir="false" afterPath="$PROJECT_DIR$/python" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/my-dream-app/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/my-dream-app/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/my-dream-app/e2e/protractor.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/my-dream-app/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/my-dream-app/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/my-dream-app/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/my-dream-app/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/my-dream-app/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/my-dream-app/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/my-dream-app/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/my-dream-app/src/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/typescript/data structures/data types.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/typescript/destructuring and spreads/demo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/typescript/functions/demo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/typescript/hello world.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/typescript/interfaces/demo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/typescript/modules/Ipoint.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/typescript/modules/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/typescript/modules/point.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/typescript/modules/require.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/typescript/working with classes/demo.js" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Hundred_Days_of_Code$while_loops.coverage" NAME="while loops Coverage Results" MODIFIED="1548252511243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratical course with python/loops" />
+    <SUITE FILE_PATH="coverage/Hundred_Days_of_Code$files___opening_and_writing.coverage" NAME="files - opening and writing Coverage Results" MODIFIED="1548255448447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratical course with python/file handling" />
+    <SUITE FILE_PATH="coverage/Hundred_Days_of_Code$loops___userinput.coverage" NAME="loops - userinput Coverage Results" MODIFIED="1548252310974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratical course with python/loops" />
+    <SUITE FILE_PATH="coverage/Hundred_Days_of_Code$loops.coverage" NAME="loops Coverage Results" MODIFIED="1548246710301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratical course with python/loops" />
+    <SUITE FILE_PATH="coverage/Hundred_Days_of_Code$loops___multiple_lists.coverage" NAME="loops - multiple lists Coverage Results" MODIFIED="1548252713092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratical course with python/loops" />
+    <SUITE FILE_PATH="coverage/Hundred_Days_of_Code$files___with_statement.coverage" NAME="files - with statement Coverage Results" MODIFIED="1548256025113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratical course with python/file handling" />
+    <SUITE FILE_PATH="coverage/Hundred_Days_of_Code$files___appending_to_file.coverage" NAME="files - appending to file Coverage Results" MODIFIED="1548256060988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratical course with python/file handling" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -57,93 +77,39 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pratical course with python/variable datatypes and functions/variable.py">
+        <entry file="file://$PROJECT_DIR$/pratical course with python/file handling/example.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="37" selection-start-column="37" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pratical course with python/variable datatypes and functions/numbers and operators.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pratical course with python/dealing with errors/fixing difficult error.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pratical course with python/dealing with errors/exception handling.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pratical course with python/conditionals/functions - the basics.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pratical course with python/conditionals/Functions - Advanced Features.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pratical course with python/conditionals/functions - functions and user input.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="5" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pratical course with python/conditionals/conditionals.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pratical course with python/conditionals/conditionals - advanced.py">
+        <entry file="file://$PROJECT_DIR$/pratical course with python/file handling/files - appending to file.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+            <state relative-caret-position="92">
+              <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pratical course with python/variable datatypes and functions/numbers.py">
+        <entry file="file://$PROJECT_DIR$/pratical course with python/file handling/files - with statement.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+            <state relative-caret-position="138">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pratical course with python/file handling/files - opening and writing.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -166,14 +132,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/python/function list" />
-        <option value="$PROJECT_DIR$/python/tuples.py" />
-        <option value="$PROJECT_DIR$/python/functions" />
-        <option value="$PROJECT_DIR$/python/conditons.py" />
-        <option value="$PROJECT_DIR$/python/if statement &amp; comparison.py" />
-        <option value="$PROJECT_DIR$/python/building a better calculator" />
-        <option value="$PROJECT_DIR$/python/Dictionaries" />
-        <option value="$PROJECT_DIR$/python/while loops" />
         <option value="$PROJECT_DIR$/python/for loop.py" />
         <option value="$PROJECT_DIR$/python/2d &amp; nested loops.py" />
         <option value="$PROJECT_DIR$/python/translator.py" />
@@ -217,6 +175,14 @@
         <option value="$PROJECT_DIR$/pratical course with python/conditionals/functions - functions and user input.py" />
         <option value="$PROJECT_DIR$/pratical course with python/conditionals/conditionals.py" />
         <option value="$PROJECT_DIR$/pratical course with python/conditionals/conditionals - advanced.py" />
+        <option value="$PROJECT_DIR$/pratical course with python/loops/loops.py" />
+        <option value="$PROJECT_DIR$/pratical course with python/loops/loops - userinput.py" />
+        <option value="$PROJECT_DIR$/pratical course with python/loops/while loops.py" />
+        <option value="$PROJECT_DIR$/pratical course with python/loops/loops - multiple lists.py" />
+        <option value="$PROJECT_DIR$/pratical course with python/file handling/example.txt" />
+        <option value="$PROJECT_DIR$/pratical course with python/file handling/files - opening and writing.py" />
+        <option value="$PROJECT_DIR$/pratical course with python/file handling/files - appending to file.py" />
+        <option value="$PROJECT_DIR$/pratical course with python/file handling/files - with statement.py" />
       </list>
     </option>
   </component>
@@ -253,7 +219,7 @@
               <item name="Hundred Days of Code" type="b2602c69:ProjectViewProjectNode" />
               <item name="Hundred Days of Code" type="462c0819:PsiDirectoryNode" />
               <item name="pratical course with python" type="462c0819:PsiDirectoryNode" />
-              <item name="conditionals" type="462c0819:PsiDirectoryNode" />
+              <item name="file handling" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -268,7 +234,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -292,7 +258,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.files - appending to file">
     <configuration type="PythonConfigurationType" factoryName="Python">
       <module name="Hundred Days of Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -337,7 +303,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="conditionals - advanced" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="files - appending to file" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Hundred Days of Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -345,12 +311,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pratical course with python/conditionals" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pratical course with python/file handling" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pratical course with python/conditionals/conditionals - advanced.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pratical course with python/file handling/files - appending to file.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -359,7 +325,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="conditionals" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="files - opening and writing" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Hundred Days of Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -367,12 +333,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pratical course with python/conditionals" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pratical course with python/file handling" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pratical course with python/conditionals/conditionals.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pratical course with python/file handling/files - opening and writing.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -381,7 +347,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exception handling" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="files - with statement" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Hundred Days of Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -389,12 +355,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pratical course with python/dealing with errors" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pratical course with python/file handling" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pratical course with python/dealing with errors/exception handling.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pratical course with python/file handling/files - with statement.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -403,7 +369,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="functions - functions and user input" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="loops - multiple lists" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Hundred Days of Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -411,12 +377,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pratical course with python/conditionals" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pratical course with python/loops" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pratical course with python/conditionals/functions - functions and user input.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pratical course with python/loops/loops - multiple lists.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -425,7 +391,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="functions - the basics" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="while loops" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Hundred Days of Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -433,12 +399,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pratical course with python/conditionals" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pratical course with python/loops" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pratical course with python/conditionals/functions - the basics.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pratical course with python/loops/while loops.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -447,6 +413,15 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.files - appending to file" />
+        <item itemvalue="Python.files - with statement" />
+        <item itemvalue="Python.files - opening and writing" />
+        <item itemvalue="Python.loops - multiple lists" />
+        <item itemvalue="Python.while loops" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -464,6 +439,8 @@
       <workItem from="1547578254218" duration="27000" />
       <workItem from="1547758981164" duration="1840000" />
       <workItem from="1548078726102" duration="8636000" />
+      <workItem from="1548163126578" duration="708000" />
+      <workItem from="1548244344039" duration="6433000" />
     </task>
     <task id="LOCAL-00001" summary="start of project">
       <created>1543588716024</created>
@@ -500,21 +477,36 @@
       <option name="project" value="LOCAL" />
       <updated>1544323446223</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="python praticals in python">
+      <created>1548163180552</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1548163180552</updated>
+    </task>
+    <task id="LOCAL-00007" summary="python praticals in python">
+      <created>1548163226551</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1548163226551</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11669000" />
+    <option name="totallyTimeSpent" value="18810000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="676" y="0" width="697" height="775" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19937205" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20408164" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32970452" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30357143" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30357143" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39285713" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -522,10 +514,11 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49924356" weight="0.33766234" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.3297546" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.3289256" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.3297546" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="12" weight="0.32970452" />
       <window_info anchor="bottom" id="Python Console" order="13" weight="0.32967034" />
+      <window_info anchor="bottom" id="TypeScript" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -576,59 +569,10 @@
     <MESSAGE value="up to building a better calculator" />
     <MESSAGE value="python basic complete" />
     <MESSAGE value="python Django Project complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="python Django Project complete" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python/python beginning.py</url>
-          <line>2</line>
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="python praticals in python" />
+    <option name="LAST_COMMIT_MESSAGE" value="python praticals in python" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/python/translator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/if statement &amp; comparison.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/conditons.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/try except.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/employees.text" />
-    <entry file="file://$PROJECT_DIR$/python/employees.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/file read and write.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/module and pip/__init__.py" />
     <entry file="file://$PROJECT_DIR$/python/Multiple choice quiz">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -701,9 +645,7 @@
     <entry file="file://$PROJECT_DIR$/mysite/mysite/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/65e48011-6ce7-4555-ad54-75eb6292d49e/console.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/65e48011-6ce7-4555-ad54-75eb6292d49e/console.sql" />
     <entry file="file://$PROJECT_DIR$/mysite/mysite/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -833,20 +775,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pratical course with python/variable datatypes and functions/numbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pratical course with python/variable datatypes and functions/numbers and operators.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pratical course with python/dealing with errors/syntax error.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -868,44 +796,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pratical course with python/variable datatypes and functions/variable.py">
+    <entry file="file://$PROJECT_DIR$/pratical course with python/variable datatypes and functions/numbers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="37" selection-start-column="37" selection-end-column="37" />
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pratical course with python/dealing with errors/fixing difficult error.py">
+    <entry file="file://$PROJECT_DIR$/pratical course with python/conditionals/conditionals - advanced.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pratical course with python/dealing with errors/exception handling.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pratical course with python/conditionals/functions - the basics.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pratical course with python/conditionals/Functions - Advanced Features.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        <state relative-caret-position="136">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pratical course with python/conditionals/conditionals.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
+        <state relative-caret-position="119">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
@@ -917,10 +824,101 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pratical course with python/conditionals/conditionals - advanced.py">
+    <entry file="file://$PROJECT_DIR$/pratical course with python/conditionals/Functions - Advanced Features.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        <state relative-caret-position="68">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pratical course with python/conditionals/functions - the basics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pratical course with python/dealing with errors/exception handling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pratical course with python/dealing with errors/fixing difficult error.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pratical course with python/variable datatypes and functions/numbers and operators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pratical course with python/variable datatypes and functions/variable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="37" selection-start-column="37" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pratical course with python/loops/while loops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pratical course with python/loops/loops - multiple lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pratical course with python/loops/loops - userinput.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pratical course with python/loops/loops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pratical course with python/file handling/files - opening and writing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pratical course with python/file handling/example.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pratical course with python/file handling/files - with statement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pratical course with python/file handling/files - appending to file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
         </state>
       </provider>
     </entry>
