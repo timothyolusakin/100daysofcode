@@ -1,168 +1,196 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/pratical course with python/build an interactive dictionary/app1.py" line="48" mnemonic="2" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1b637f20-825b-4e40-8d54-adb9225e23a5" name="Default" comment="python praticals in python- working with files writing and appending">
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/.idea/Angular.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/dealing-with-components/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/dealing-with-components/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/dealing-with-components/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/dealing-with-components/angular-cli.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/dealing-with-components/e2e/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/dealing-with-components/e2e/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/dealing-with-components/e2e/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/dealing-with-components/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/dealing-with-components/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/dealing-with-components/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/dealing-with-components/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/dealing-with-components/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/dealing-with-components/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/dealing-with-components/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/dealing-with-components/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/dealing-with-components/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/dealing-with-components/src/app/server/server.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/dealing-with-components/src/app/server/server.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/dealing-with-components/src/app/servers/servers.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/dealing-with-components/src/app/servers/servers.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/dealing-with-components/src/app/servers/servers.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/dealing-with-components/src/app/servers/servers.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/dealing-with-components/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/dealing-with-components/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/dealing-with-components/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/dealing-with-components/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/dealing-with-components/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/dealing-with-components/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/dealing-with-components/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/dealing-with-components/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/dealing-with-components/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/dealing-with-components/src/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/dealing-with-components/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/dist/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/dist/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/dist/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/dist/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/dist/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/dist/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/dist/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/dist/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/dist/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/dist/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/dist/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/dist/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/dist/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/dist/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/dist/alert.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/dist/button.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/dist/carousel.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/dist/collapse.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/dist/dropdown.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/dist/index.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/dist/modal.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/dist/popover.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/dist/scrollspy.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/dist/tab.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/dist/toast.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/dist/tooltip.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/dist/util.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_alert.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_badge.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_breadcrumb.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_button-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_card.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_carousel.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_close.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_code.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_custom-forms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_dropdown.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_forms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_functions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_images.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_input-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_jumbotron.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_list-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_media.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_modal.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_nav.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_navbar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_pagination.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_popover.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_print.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_progress.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_reboot.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_root.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_spinners.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_tables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_toasts.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_tooltip.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_transitions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_type.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_utilities.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/bootstrap-grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/bootstrap-reboot.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/bootstrap.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_alert.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_background-variant.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_badge.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_border-radius.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_box-shadow.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_breakpoints.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_caret.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_clearfix.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_float.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_forms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_gradients.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_grid-framework.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_hover.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_image.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_list-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_lists.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_nav-divider.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_pagination.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_reset-text.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_resize.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_screen-reader.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_size.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_table-row.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_text-emphasis.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_text-hide.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_text-truncate.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_transition.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_visibility.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/utilities/_align.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/utilities/_background.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/utilities/_borders.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/utilities/_clearfix.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/utilities/_display.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/utilities/_embed.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/utilities/_flex.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/utilities/_float.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/utilities/_overflow.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/utilities/_position.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/utilities/_screenreaders.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/utilities/_shadows.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/utilities/_sizing.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/utilities/_spacing.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/utilities/_text.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/utilities/_visibility.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/course-project/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/course-project/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/course-project/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/course-project/angular-cli.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/course-project/e2e/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/course-project/e2e/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/course-project/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/course-project/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/course-project/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/course-project/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/course-project/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/course-project/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/course-project/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/course-project/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/course-project/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/course-project/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/course-project/src/app/header/header.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/course-project/src/app/header/header.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/course-project/src/app/recipe/recipe-detail/recipe-detail.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/course-project/src/app/recipe/recipe-detail/recipe-detail.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/course-project/src/app/recipe/recipe-detail/recipe-detail.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/course-project/src/app/recipe/recipe-list/recipe-item/recipe-item.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/course-project/src/app/recipe/recipe-list/recipe-item/recipe-item.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/course-project/src/app/recipe/recipe-list/recipe-item/recipe-item.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/course-project/src/app/recipe/recipe-list/recipe-list.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/course-project/src/app/recipe/recipe-list/recipe-list.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/course-project/src/app/recipe/recipe-list/recipe-list.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/course-project/src/app/recipe/recipe.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/course-project/src/app/recipes/recipes.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/course-project/src/app/recipes/recipes.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/course-project/src/app/recipes/recipes.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/course-project/src/app/shopping-list/shopping-edit/shopping-edit.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/course-project/src/app/shopping-list/shopping-edit/shopping-edit.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/course-project/src/app/shopping-list/shopping-edit/shopping-edit.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/course-project/src/app/shopping-list/shopping-list.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/course-project/src/app/shopping-list/shopping-list.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/course-project/src/app/shopping-list/shopping-list.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/course-project/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/course-project/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/course-project/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/course-project/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/course-project/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/course-project/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/course-project/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/course-project/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/course-project/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/course-project/src/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/course-project/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/dist/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/dist/alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/dist/button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/dist/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/dist/collapse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/dist/dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/dist/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/dist/modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/dist/popover.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/dist/scrollspy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/dist/tab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/dist/toast.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/dist/tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/dist/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/src/alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/src/button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/src/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/src/collapse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/src/dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/src/modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/src/popover.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/src/scrollspy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/src/tab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/src/toast.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/src/tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/src/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_deprecate.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/utilities/_stretched-link.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/vendor/_rfs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pratical course with python/Building a WebMap/Map1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pratical course with python/Building a WebMap/Volcanoes_USA.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pratical course with python/Building a WebMap/app2-web-map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pratical course with python/Building a WebMap/world.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pratical course with python/Data Analysis with pandas/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pratical course with python/Data Analysis with pandas/indexing and slicing data frames.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pratical course with python/build an interactive dictionary/app1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pratical course with python/build an interactive dictionary/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pratical course with python/more functionalities/2019-01-26.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pratical course with python/more functionalities/commenting and documenting your code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pratical course with python/more functionalities/sample.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pratical course with python/more functionalities/working with dates and times.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pratical course with python/numpy/images to numpy and vice versa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pratical course with python/numpy/numpy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pratical course with python/numpy/smallgray.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Hundred Days of Code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Hundred Days of Code.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/learning Angular/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pratical course with python/file handling/files - appending to file.py" beforeDir="false" afterPath="$PROJECT_DIR$/pratical course with python/file handling/files - appending to file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/dist/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/dist/css/bootstrap-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/dist/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/dist/css/bootstrap-grid.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/dist/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/dist/css/bootstrap-grid.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/dist/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/dist/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/dist/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/dist/css/bootstrap-reboot.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/dist/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/dist/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/dist/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/dist/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/dist/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/dist/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/dist/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/dist/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/dist/css/bootstrap.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/dist/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/dist/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/dist/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/dist/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/dist/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/dist/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/dist/js/bootstrap.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/dist/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/dist/js/bootstrap.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/dist/alert.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/dist/alert.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/dist/button.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/dist/button.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/dist/carousel.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/dist/carousel.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/dist/collapse.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/dist/collapse.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/dist/dropdown.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/dist/dropdown.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/dist/modal.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/dist/modal.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/dist/popover.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/dist/popover.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/dist/scrollspy.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/dist/scrollspy.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/dist/tab.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/dist/tab.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/dist/toast.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/dist/toast.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/dist/tooltip.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/dist/tooltip.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/dist/util.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/js/dist/util.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_badge.scss" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_badge.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_buttons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_card.scss" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_card.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_carousel.scss" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_carousel.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_close.scss" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_close.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_code.scss" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_code.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_custom-forms.scss" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_custom-forms.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_dropdown.scss" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_dropdown.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_forms.scss" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_forms.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_functions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_functions.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_images.scss" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_images.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_input-group.scss" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_input-group.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_jumbotron.scss" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_jumbotron.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_list-group.scss" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_list-group.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_mixins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_modal.scss" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_modal.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_navbar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_navbar.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_pagination.scss" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_pagination.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_popover.scss" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_popover.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_print.scss" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_print.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_progress.scss" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_progress.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_reboot.scss" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_reboot.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_spinners.scss" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_spinners.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_tables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_tables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_toasts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_toasts.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_tooltip.scss" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_tooltip.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_transitions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_transitions.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_type.scss" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_type.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_utilities.scss" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_utilities.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/bootstrap-grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/bootstrap-grid.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/bootstrap-reboot.scss" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/bootstrap-reboot.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/bootstrap.scss" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/bootstrap.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_badge.scss" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_badge.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_border-radius.scss" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_border-radius.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_box-shadow.scss" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_box-shadow.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_buttons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_caret.scss" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_caret.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_float.scss" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_float.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_forms.scss" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_forms.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_image.scss" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_image.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_pagination.scss" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_pagination.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_reset-text.scss" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_reset-text.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_size.scss" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_size.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_text-emphasis.scss" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_text-emphasis.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_text-hide.scss" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_text-hide.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_transition.scss" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_transition.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_visibility.scss" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/mixins/_visibility.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/utilities/_borders.scss" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/utilities/_borders.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/utilities/_display.scss" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/utilities/_display.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/utilities/_float.scss" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/utilities/_float.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/utilities/_text.scss" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/utilities/_text.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/utilities/_visibility.scss" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/node_modules/bootstrap/scss/utilities/_visibility.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning Angular/Angular/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/learning Angular/Angular/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pratical course with python/more functionalities/069 Modules Libraries and Packages.py" beforeDir="false" afterPath="$PROJECT_DIR$/pratical course with python/more functionalities/069 Modules Libraries and Packages.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -172,12 +200,20 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Hundred_Days_of_Code$while_loops.coverage" NAME="while loops Coverage Results" MODIFIED="1548252511243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratical course with python/loops" />
-    <SUITE FILE_PATH="coverage/Hundred_Days_of_Code$files___opening_and_writing.coverage" NAME="files - opening and writing Coverage Results" MODIFIED="1548255448447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratical course with python/file handling" />
     <SUITE FILE_PATH="coverage/Hundred_Days_of_Code$loops___userinput.coverage" NAME="loops - userinput Coverage Results" MODIFIED="1548252310974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratical course with python/loops" />
+    <SUITE FILE_PATH="coverage/Hundred_Days_of_Code$069_Modules_Libraries_and_Packages.coverage" NAME="069 Modules Libraries and Packages Coverage Results" MODIFIED="1548464180845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratical course with python/more functionalities" />
     <SUITE FILE_PATH="coverage/Hundred_Days_of_Code$loops.coverage" NAME="loops Coverage Results" MODIFIED="1548246710301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratical course with python/loops" />
     <SUITE FILE_PATH="coverage/Hundred_Days_of_Code$loops___multiple_lists.coverage" NAME="loops - multiple lists Coverage Results" MODIFIED="1548252713092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratical course with python/loops" />
+    <SUITE FILE_PATH="coverage/Hundred_Days_of_Code$commenting_and_documenting_your_code.coverage" NAME="commenting and documenting your code Coverage Results" MODIFIED="1548464790569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratical course with python/more functionalities" />
+    <SUITE FILE_PATH="coverage/Hundred_Days_of_Code$app2_web_map__1_.coverage" NAME="app2-web-map (1) Coverage Results" MODIFIED="1550661352255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratical course with python/Building a WebMap" />
+    <SUITE FILE_PATH="coverage/Hundred_Days_of_Code$working_with_dates_and_times.coverage" NAME="working with dates and times Coverage Results" MODIFIED="1548466172068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratical course with python/more functionalities" />
+    <SUITE FILE_PATH="coverage/Hundred_Days_of_Code$files___opening_and_writing.coverage" NAME="files - opening and writing Coverage Results" MODIFIED="1548255448447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratical course with python/file handling" />
+    <SUITE FILE_PATH="coverage/Hundred_Days_of_Code$app2_web_map.coverage" NAME="app2-web-map Coverage Results" MODIFIED="1550661118132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/Rar$DRa0.818" />
     <SUITE FILE_PATH="coverage/Hundred_Days_of_Code$files___with_statement.coverage" NAME="files - with statement Coverage Results" MODIFIED="1548256025113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratical course with python/file handling" />
+    <SUITE FILE_PATH="coverage/Hundred_Days_of_Code$app1.coverage" NAME="app1 Coverage Results" MODIFIED="1548669253836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratical course with python/build an interactive dictionary" />
     <SUITE FILE_PATH="coverage/Hundred_Days_of_Code$files___appending_to_file.coverage" NAME="files - appending to file Coverage Results" MODIFIED="1548256060988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratical course with python/file handling" />
+    <SUITE FILE_PATH="coverage/Hundred_Days_of_Code$indexing_and_slicing_data_frames.coverage" NAME="indexing and slicing data frames Coverage Results" MODIFIED="1550054118883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratical course with python/Data Analysis with pandas" />
+    <SUITE FILE_PATH="coverage/Hundred_Days_of_Code$images_to_numpy_and_vice_versa.coverage" NAME="images to numpy and vice versa Coverage Results" MODIFIED="1550156358411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pratical course with python/numpy" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -200,50 +236,27 @@
         <item name="db.sqlite3" type="feb32156:DbDataSourceImpl" />
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
       </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="db.sqlite3" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="main: schema" type="90513b60:SqliteImplModel$Schema" />
-      </path>
     </expand>
     <select />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pratical course with python/file handling/example.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="6" selection-start-column="6" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pratical course with python/file handling/files - appending to file.py">
+        <entry file="file://$PROJECT_DIR$/pratical course with python/Building a WebMap/app2-web-map.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+            <state relative-caret-position="345">
+              <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pratical course with python/file handling/files - with statement.py">
+        <entry file="file://$PROJECT_DIR$/pratical course with python/Building a WebMap/Map1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pratical course with python/file handling/files - opening and writing.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-            </state>
+            <state relative-caret-position="-19458" />
           </provider>
         </entry>
       </file>
@@ -265,15 +278,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/python/for loop.py" />
-        <option value="$PROJECT_DIR$/python/2d &amp; nested loops.py" />
-        <option value="$PROJECT_DIR$/python/translator.py" />
-        <option value="$PROJECT_DIR$/python/try except.py" />
-        <option value="$PROJECT_DIR$/python/file read and write.py" />
-        <option value="$PROJECT_DIR$/python/employees.txt" />
-        <option value="$PROJECT_DIR$/python/Module and pip.py" />
-        <option value="$PROJECT_DIR$/python/module and pip/__init__.py" />
-        <option value="$PROJECT_DIR$/python/module and pip/app.py" />
         <option value="$PROJECT_DIR$/python/classes/app.py" />
         <option value="$PROJECT_DIR$/python/Multiple choice quiz/Question.py" />
         <option value="$PROJECT_DIR$/python/Multiple choice quiz/app.py" />
@@ -316,6 +320,15 @@
         <option value="$PROJECT_DIR$/pratical course with python/file handling/files - opening and writing.py" />
         <option value="$PROJECT_DIR$/pratical course with python/file handling/files - with statement.py" />
         <option value="$PROJECT_DIR$/pratical course with python/file handling/files - appending to file.py" />
+        <option value="$PROJECT_DIR$/pratical course with python/more functionalities/069 Modules Libraries and Packages.py" />
+        <option value="$PROJECT_DIR$/pratical course with python/more functionalities/commenting and documenting your code.py" />
+        <option value="$PROJECT_DIR$/pratical course with python/more functionalities/working with dates and times.py" />
+        <option value="$PROJECT_DIR$/pratical course with python/build an interactive dictionary/app1.py" />
+        <option value="$PROJECT_DIR$/pratical course with python/Data Analysis with pandas/indexing and slicing data frames.py" />
+        <option value="$PROJECT_DIR$/pratical course with python/numpy/Numpy" />
+        <option value="$PROJECT_DIR$/pratical course with python/numpy/numpy.py" />
+        <option value="$PROJECT_DIR$/pratical course with python/numpy/images to numpy and vice versa.py" />
+        <option value="$PROJECT_DIR$/pratical course with python/Building a WebMap/app2-web-map.py" />
       </list>
     </option>
   </component>
@@ -324,7 +337,7 @@
     <bower-package value="" />
     <bower.json value="" />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="676" />
     <option name="width" value="697" />
     <option name="height" value="775" />
@@ -347,6 +360,18 @@
               <item name="Hundred Days of Code" type="462c0819:PsiDirectoryNode" />
               <item name="pratical course with python" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Hundred Days of Code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hundred Days of Code" type="462c0819:PsiDirectoryNode" />
+              <item name="pratical course with python" type="462c0819:PsiDirectoryNode" />
+              <item name="Building a WebMap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hundred Days of Code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hundred Days of Code" type="462c0819:PsiDirectoryNode" />
+              <item name="pratical course with python" type="462c0819:PsiDirectoryNode" />
+              <item name="numpy" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -364,13 +389,17 @@
     <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\olusa\Documents\Hundred Days of Code\pratical course with python\numpy" />
+      <recent name="C:\Users\olusa\Documents\Hundred Days of Code\pratical course with python\build an interactive dictionary" />
+      <recent name="C:\Users\olusa\Documents\Hundred Days of Code\mysite\polls\templates\admin" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\olusa\Documents\Hundred Days of Code\pratical course with python\Building a WebMap" />
+      <recent name="C:\Users\olusa\Documents\Hundred Days of Code\pratical course with python\Data Analysis with pandas" />
       <recent name="C:\Users\olusa\Documents\Hundred Days of Code\pratical course with python\variable datatypes and functions" />
       <recent name="C:\Users\olusa\Documents\Hundred Days of Code\mysite\polls\static" />
       <recent name="C:\Users\olusa\Documents\Hundred Days of Code\python\module and pip" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\olusa\Documents\Hundred Days of Code\mysite\polls\templates\admin" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -385,7 +414,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.files - appending to file">
+  <component name="RunManager" selected="JavaScript Debug.Map1.html">
     <configuration type="PythonConfigurationType" factoryName="Python">
       <module name="Hundred Days of Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -430,7 +459,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="files - appending to file" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Hundred Days of Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -438,12 +467,37 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pratical course with python/file handling" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Map1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Hundred Days of Code/pratical course with python/Building a WebMap/Map1.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="app2-web-map (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Hundred Days of Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pratical course with python/Building a WebMap" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pratical course with python/file handling/files - appending to file.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pratical course with python/Building a WebMap/app2-web-map.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -452,7 +506,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="files - opening and writing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="app2-web-map" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Hundred Days of Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -460,12 +514,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pratical course with python/file handling" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Local/Temp/Rar$DRa0.818" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pratical course with python/file handling/files - opening and writing.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\olusa\Documents\Hundred Days of Code\pratical course with python\Building a WebMap\app2-web-map.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -474,29 +528,26 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="files - with statement" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="images to numpy and vice versa" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Hundred Days of Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pratical course with python/file handling" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pratical course with python/numpy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pratical course with python/file handling/files - with statement.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pratical course with python/numpy/images to numpy and vice versa.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="loops - multiple lists" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="indexing and slicing data frames" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Hundred Days of Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -504,34 +555,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pratical course with python/loops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pratical course with python/Data Analysis with pandas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pratical course with python/loops/loops - multiple lists.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="while loops" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Hundred Days of Code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pratical course with python/loops" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pratical course with python/loops/while loops.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pratical course with python/Data Analysis with pandas/indexing and slicing data frames.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -542,11 +571,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.files - appending to file" />
-        <item itemvalue="Python.files - with statement" />
-        <item itemvalue="Python.files - opening and writing" />
-        <item itemvalue="Python.loops - multiple lists" />
-        <item itemvalue="Python.while loops" />
+        <item itemvalue="JavaScript Debug.Map1.html" />
+        <item itemvalue="Python.app2-web-map (1)" />
+        <item itemvalue="Python.app2-web-map" />
+        <item itemvalue="Python.images to numpy and vice versa" />
+        <item itemvalue="Python.indexing and slicing data frames" />
       </list>
     </recent_temporary>
   </component>
@@ -568,7 +597,10 @@
       <workItem from="1548078726102" duration="8636000" />
       <workItem from="1548163126578" duration="708000" />
       <workItem from="1548244344039" duration="7358000" />
-      <workItem from="1548463043026" duration="338000" />
+      <workItem from="1548463043026" duration="20528000" />
+      <workItem from="1550052831995" duration="1854000" />
+      <workItem from="1550152581822" duration="4993000" />
+      <workItem from="1550658771405" duration="2602000" />
     </task>
     <task id="LOCAL-00001" summary="start of project">
       <created>1543588716024</created>
@@ -626,21 +658,55 @@
       <option name="project" value="LOCAL" />
       <updated>1548256624690</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="python praticals in python- working with files writing and appending">
+      <created>1548463485934</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1548463485934</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20073000" />
+    <option name="totallyTimeSpent" value="49712000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="676" y="0" width="697" height="775" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12783661" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32954547" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4976452" visible="true" weight="0.3024" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39285713" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4976452" weight="0.2792208" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5023548" side_tool="true" weight="0.33766234" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.3297546" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="12" weight="0.32970452" />
+      <window_info anchor="bottom" id="Python Console" order="13" weight="0.3568" />
+      <window_info anchor="bottom" id="TypeScript" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" sideWeight="0.496" weight="0.32810047" />
+      <window_info anchor="right" id="Database" order="4" weight="0.48037678" />
+      <window_info anchor="right" auto_hide="true" x="0" y="0" width="124" height="575" id="Documentation" order="5" sideWeight="0.504" side_tool="true" weight="0.1580938" />
+    </layout>
+    <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21036106" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32970452" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30357143" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30357143" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39285713" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -658,30 +724,6 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Database" order="4" weight="0.48184568" />
-    </layout>
-    <layout-to-restore>
-      <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.15658094" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="1" weight="0.3297546" />
-      <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.49924356" visible="true" weight="0.33435583" />
-      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.50075644" side_tool="true" weight="0.3297546" />
-      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="6" weight="0.32970452" />
-      <window_info anchor="bottom" id="Message" order="7" />
-      <window_info anchor="bottom" id="Find" order="8" weight="0.32970452" />
-      <window_info anchor="bottom" id="Run" order="9" weight="0.32668713" />
-      <window_info anchor="bottom" id="Debug" order="10" weight="0.3934681" />
-      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="13" />
-      <window_info anchor="right" id="Database" order="0" weight="0.48184568" />
-      <window_info anchor="right" id="SciView" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -708,117 +750,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="python praticals in python- working with files writing and appending" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/python/Multiple choice quiz">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/Multiple choice quiz/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/classes/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/classes/built_in_functions/ChinesseChef.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/classes/built_in_functions/Chef.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/classes/built_in_functions/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/classes/Student.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/Multiple choice quiz/Question.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/module and pip/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/module and pip/useful_tools.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysite/mysite/wsgi.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysite/mysite/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/65e48011-6ce7-4555-ad54-75eb6292d49e/console.sql" />
-    <entry file="file://$PROJECT_DIR$/mysite/mysite/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysite/polls/apps.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysite/manage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysite/polls/templates/polls/detail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysite/polls/tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="122" column="66" selection-start-line="122" selection-start-column="66" selection-end-line="122" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysite/polls/static/polls/static.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mysite/mysite/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="969">
@@ -1029,12 +960,67 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pratical course with python/more functionalities/sample.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pratical course with python/more functionalities/working with dates and times.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pratical course with python/more functionalities/commenting and documenting your code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="9" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pratical course with python/more functionalities/069 Modules Libraries and Packages.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pratical course with python/file handling/example.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="6" selection-start-column="6" selection-end-column="6" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pratical course with python/build an interactive dictionary/data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2034028">
+          <caret column="4912906" selection-start-column="4912810" selection-end-column="4912906" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/_sitebuiltins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/urllib/parse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="777" selection-start-line="777" selection-end-line="777" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1270422148/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="653" column="25" lean-forward="true" selection-start-line="653" selection-start-column="25" selection-end-line="653" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pratical course with python/Data Analysis with pandas/data.json">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/pratical course with python/file handling/files - with statement.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -1043,6 +1029,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pratical course with python/file handling/files - appending to file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pratical course with python/numpy/Numpy" />
+    <entry file="file://$USER_HOME$/Desktop/Hundred Days of Code/Lib/site-packages/cv2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pratical course with python/Building a WebMap/Volcanoes_USA.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pratical course with python/Building a WebMap/world.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/pratical course with python/file handling/files - opening and writing.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
@@ -1050,10 +1057,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pratical course with python/file handling/files - appending to file.py">
+    <entry file="file://$PROJECT_DIR$/pratical course with python/numpy/images to numpy and vice versa.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        <state relative-caret-position="69">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pratical course with python/numpy/numpy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pratical course with python/Data Analysis with pandas/indexing and slicing data frames.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pratical course with python/build an interactive dictionary/app1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pratical course with python/Building a WebMap/Map1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19458" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pratical course with python/Building a WebMap/app2-web-map.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
